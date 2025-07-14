@@ -37,7 +37,9 @@ Model Output
 "⚠️ Diabetic Detected"
 ```
 ## How to Run
-Clone the repo:
+- Clone the repo:
+```
 git clone https://github.com/siddhikasavant/Diabetes-Prediction.git
-Open main.ipynb in Jupyter
-Run all cells & try testing your own values
+```
+- Open main.ipynb in Jupyter
+- Run all cells & try testing your own values
