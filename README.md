@@ -1,4 +1,4 @@
-# Diabetic-P# 🩺 Diabetes Prediction using Machine Learning
+# 🩺 Diabetes Prediction using Machine Learning
 
 This project uses the **Pima Indians Diabetes Dataset** to predict whether a person is diabetic using health data and a Machine Learning model.
 
