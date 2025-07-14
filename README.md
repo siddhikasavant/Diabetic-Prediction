@@ -35,9 +35,8 @@ This project uses the **Pima Indians Diabetes Dataset** to predict whether a per
 
 Model Output
 "⚠️ Diabetic Detected"
-
-
-How to Run
+```
+## How to Run
 Clone the repo:
 git clone https://github.com/siddhikasavant/Diabetes-Prediction.git
 Open main.ipynb in Jupyter
